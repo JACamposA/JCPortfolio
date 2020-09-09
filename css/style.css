@@ -3,7 +3,7 @@ Author: W3layouts
 Author URL: http://w3layouts.com
 --*/
 :root {
-  --theme-color: #0B8E6A;
+  --theme-color:black;
 }
 
 html {
@@ -11,6 +11,9 @@ html {
 }
 
 .img-responsive {
+  max-width: 100%;
+}
+.img-responsive1 {
   max-width: 100%;
 }
 
